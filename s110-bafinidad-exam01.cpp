@@ -1,5 +1,10 @@
 //s110-bafinidad-exam01
 //bryan afinidad
+// read data from file
+// ignore if not divisible by 3 or 5
+// ignore if negative
+// extract tens place value digit
+// output average of extracted digits
 
 #include <iostream>
 #include <fstream>
