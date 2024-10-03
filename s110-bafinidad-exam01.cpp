@@ -28,7 +28,7 @@ int main(){
     }
     average = accum / counter;
     if(counter > 0){
-        cout << "\nThe average of the valid extrated numbers is: " << average << endl;
+        cout << "\nThe average of the valid extracted numbers is: " << average << endl;
     } else {
         cout << "\nNO VALID DATA WAS FOUND"
     }
